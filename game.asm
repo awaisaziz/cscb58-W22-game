@@ -2,7 +2,7 @@
 #
 # CSCB58 Winter 2022 Assembly Final Project 				 
 # University of Toronto, Scarborough 					
-# Student: Awais Aziz,  1006103681,   azizawai, awais.aziz@mail.utoronto.ca 					#
+# Student: Awais Aziz, awais.aziz@mail.utoronto.ca 					#
 #									
 # BitMap Display Configuration:							
 #  - Unit width in pixels: 8								
